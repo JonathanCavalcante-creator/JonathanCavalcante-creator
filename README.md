@@ -5,7 +5,7 @@
 💻Estudante do curso de Redes de Computadores no Instituto Federal de Sergipe.
 🐍Estudante ávido da linguagem de programação Python, com cursos pela Udemy.
 🐘De forma autônoma, construindo conhecimento em PHP com livros e assistindo o canal Curso em Vídeo.
-☕Estando a linguagem de programação JAVA com curso pela Udemy.
+☕Estudando a linguagem de programação JAVA com curso pela Udemy.
 
 
 
