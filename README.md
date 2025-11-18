@@ -1,6 +1,6 @@
 <h2 align="left">Olá! eu sou o Jonathan Cavalcante.👋</h2>
 <h4 align="right">'Pronomes: ele/dele.'</h4>
-<h4 align="right">Contato: (79) 9 9661-3450</h4>
+<h5 align="right">Contato: (79) 9 9661-3450</h5>
 
 💻Estudante do curso de Redes de Computadores no Instituto Federal de Sergipe.
 🐍Estudante ávido da linguagem de programação Python, com cursos pela Udemy.
