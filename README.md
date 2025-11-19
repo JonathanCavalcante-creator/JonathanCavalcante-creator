@@ -13,7 +13,8 @@
 <h2>Estatitcas:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JonathanCavalcante-creator&hide_title=True&hide_rank=False&show_icons=False&include_all_commits=True&count_private=False&disable_animations=False&theme=dark&locale=en&hide_border=False" height="140px"  />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanCavalcante-creator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="250"  />
+</div>
 
 
 <h2 align="center">-----Linguagem e Tecnologias-----</h2>
