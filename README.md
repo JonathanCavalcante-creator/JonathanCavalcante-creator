@@ -9,7 +9,6 @@
 
 
 
-
 <h2>Estatitcas:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JonathanCavalcante-creator&hide_title=True&hide_rank=False&show_icons=False&include_all_commits=True&count_private=False&disable_animations=False&theme=dark&locale=en&hide_border=False" height="140px"  />
